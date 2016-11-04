@@ -5,7 +5,7 @@
 * documentation
 
 
-Talk heavily based on Philip Stark's talk
+Talk heavily based on Philip Stark's talk and work from Lorena Barba's group
 
 
 How do we verify a scientific claim?
@@ -40,11 +40,12 @@ If we attempt the experiment and get different results, why did that happen?
 
 What could go wrong?
 
+Talk about Lorena Barba's flying snakes
+
+
 Talk about my own experience reproducing Schaer's horizontal advection test
 - show Schaer's original plot
 - show plots of before/after
-
-Talk about Lorena Barba's flying snakes
 
 
 Replicability
@@ -65,7 +66,6 @@ We have access to:
 - maybe the processing and plotting scripts
 
 
-
 Open up for discussion
 ----------------------
 
@@ -76,13 +76,15 @@ Open up for discussion
 What can we do about it?
 ------------------------
 
-- Lorena Barba's "reproducible packages"
 - reviewers should ask that code, configuration and data be made available
 - automate more:
   - git/github, zotero
   - automated testing 
   - automate your processing workflows
+  - wholetale
+  - Lorena Barba's "reproducible packages"
 - an incentive to make code replicable
   - journals that accept code and data, e.g. Geoscience Data Journal
   - ReScience
   - depsy
+
