@@ -41,6 +41,8 @@ If we attempt the experiment and get different results, why did that happen?
 What could go wrong?
 
 Talk about Lorena Barba's flying snakes
+- explain flying snakes: angle of inclination generates lift and creates von Karman vortex streets
+
 
 
 Talk about my own experience reproducing Schaer's horizontal advection test
